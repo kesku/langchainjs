@@ -1,5 +1,11 @@
 # @langchain/core
 
+## 1.2.4
+
+### Patch Changes
+
+- [#11153](https://github.com/langchain-ai/langchainjs/pull/11153) [`84ce6d6`](https://github.com/langchain-ai/langchainjs/commit/84ce6d65ef0ab2c556d5a5a3b5651b5cf3d73303) Thanks [@parveshsaini](https://github.com/parveshsaini)! - fix(core): bind splitText when trimMessages receives a TextSplitter instance
+
 ## 1.2.3
 
 ### Patch Changes
